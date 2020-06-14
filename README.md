@@ -2,7 +2,7 @@
 
 The repository consists of the following:
 
-* main.ipnyp: data cleaning, feature engineering, model scoring, model comparison and answers
+* main.ipynb: data cleaning, feature engineering, model scoring, model comparison and answers
 
 * model.py: the class for the main model
 
